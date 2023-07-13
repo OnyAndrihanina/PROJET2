@@ -23,5 +23,20 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            DataGrid_achat.Visibility = Visibility.Visible;
+        }
+
+        private void DataGrid_achat_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

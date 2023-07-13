@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
+C:\Users\Inclusiv Academy 001\Videos\PROJET2\WpfApp1\obj\Debug\
+=======
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\
+>>>>>>> 47c47ea93888f17b7af4ccaba5e4d580644601b8
 WpfApp1
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
+C:\Users\Inclusiv Academy 001\Videos\PROJET2\WpfApp1\App.xaml
+=======
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\App.xaml
+>>>>>>> 47c47ea93888f17b7af4ccaba5e4d580644601b8
 9-550935364
-
+31-503457005
 14-1048171533
+<<<<<<< HEAD
+64-721867144
+=======
 64-1455684272
+>>>>>>> 47c47ea93888f17b7af4ccaba5e4d580644601b8
 interfaceChoixInscription.xaml;interfaceDashboardAccueil.xaml;interfaceDashboardAdmin.xaml;interfaceDashboardFournisseur.xaml;interfaceInscriptionClient.xaml;interfaceInscriptionFournissseur.xaml;interfaceLogin.xaml;interfaceValidationInscriptionFournisseur.xaml;MainWindow.xaml;
 
 False
