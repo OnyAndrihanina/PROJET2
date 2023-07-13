@@ -59,14 +59,14 @@
                             </StackPanel>
                         </Button>
 
-                        <Button Style="{StaticResource menuButton}">
+                        <Button Style="{StaticResource menuButton}" Click="Button_Click_1">
                             <StackPanel Orientation="Horizontal">
                                 <Icon:PackIconMaterial Kind="PlusBoxMultipleOutline" Style="{StaticResource menuButtonIcon}"/>
                                 <TextBlock FontSize="25"><Run Text="Demande "/><LineBreak/><Run Text="de fournisseurs"/></TextBlock>
                             </StackPanel>
                         </Button>
 
-                        <Button Style="{StaticResource menuButton}">
+                        <Button Style="{StaticResource menuButton}" Click="Button_Click">
                             <StackPanel Orientation="Horizontal">
                                 <Icon:PackIconMaterial Kind="GoogleMyBusiness" Style="{StaticResource menuButtonIcon}"/>
                                 <TextBlock Text="Fournisseurs" FontSize="30"/>
@@ -77,6 +77,14 @@
                             <StackPanel Orientation="Horizontal">
                                 <Icon:PackIconMaterial Kind="Tag" Style="{StaticResource menuButtonIcon}"/>
                                 <TextBlock Text="Produits" FontSize="30"/>
+                            </StackPanel>
+                        </Button>
+                        
+                        
+                        <Button Style="{StaticResource menuButton}">
+                            <StackPanel Orientation="Horizontal">
+                                <Icon:PackIconMaterial Kind="HumanFemale" Style="{StaticResource menuButtonIcon}"/>
+                                <TextBlock Text="Clients" FontSize="25"/>
                             </StackPanel>
                         </Button>
                     </StackPanel>
@@ -121,9 +129,9 @@
                        HorizontalAlignment="Left" Foreground="#121518" Width="601"/>
 
 
-            <DataGrid RowStyle="{DynamicResource DataGridRowStyle1}" Grid.Row="4" Grid.RowSpan="2" x:Name="dataGridNotification" Margin="34,0,0,0">
+            <DataGrid RowStyle="{DynamicResource DataGridRowStyle1}" Grid.Row="4" Grid.RowSpan="2" x:Name="dataGridNotification" Margin="34,0,0,0" SelectionChanged="dataGridNotification_SelectionChanged">
                 <DataGrid.Columns>
-                    <DataGridTextColumn Header="#" IsReadOnly="True" CanUserResize="False" Width="Auto" Binding="{Binding id_fournisseur}"/>
+                    <!--<DataGridTextColumn Header="#" IsReadOnly="True" CanUserResize="False" Width="Auto" Binding="{Binding Path=nomentreprise}"/>-->
                     <DataGridTextColumn Header="Nom Entreprise" IsReadOnly="True" Width="*" Binding="{Binding nomentreprise}"/>
                     <DataGridTextColumn Header="Nom Propriétaire" IsReadOnly="True" Width="*" FontSize="24" Binding="{Binding nomproprietaire}"/>
                     <DataGridTextColumn Header="Adresse" IsReadOnly="True" Width="*" FontSize="24" Binding="{Binding adresse}"/>
