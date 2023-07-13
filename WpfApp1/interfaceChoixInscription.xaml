@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp1.interfaceChoixInscription"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="interfaceChoixInscription" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="logo" HorizontalAlignment="Left" Height="177" Margin="66,99,0,0" VerticalAlignment="Top" Width="138" Source="/Image/logo_tsenEnergy.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="295,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="68" Width="421" Text="Bienvenue sur Tsen'Energy, votre destination pour des choix énergétiques respectueux de l'environnement." FontFamily="Century Gothic" FontSize="17" FontWeight="Bold" FontStyle="Italic"/>
+        <Label Content="Veuillez indiquer si vous voulez vous inscrire en tant que Client ou Fournisseur" HorizontalAlignment="Left" Margin="295,195,0,0" VerticalAlignment="Top" Width="440" Height="42"/>
+        <RadioButton x:Name="rbtClient" Content="Client" HorizontalAlignment="Left" Margin="453,271,0,0" VerticalAlignment="Top" FontSize="17"/>
+        <!--<RadioButton x:Name="rbtFournisseur" Content="Fournisseur" HorizontalAlignment="Left" Margin="536,269,0,0" VerticalAlignment="Top" FontSize="17" Checked="RadioButton_Checked"/>-->
+        <Button x:Name="btSuivant" Content="Suivant" HorizontalAlignment="Left" Margin="638,367,0,0" VerticalAlignment="Top" Height="27" Width="97" Background="#FF75AA31" Foreground="White" FontWeight="Bold" FontFamily="Century Gothic" Click="Button_Click"/>
+        <RadioButton x:Name="rbtFournisseur" Content="Fournisseur" HorizontalAlignment="Left" Margin="453,312,0,0" VerticalAlignment="Top" FontSize="17"/>
+        <Button x:Name="btRetour" Content="Retour" HorizontalAlignment="Left" Margin="295,367,0,0" VerticalAlignment="Top" Height="27" Width="97" Background="AliceBlue" Foreground="Black" FontWeight="Bold" FontFamily="Century Gothic" Click="btRetour_Click"/>
+
+    </Grid>
+</Window>

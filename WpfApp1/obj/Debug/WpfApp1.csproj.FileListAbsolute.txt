@@ -1,0 +1,345 @@
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceChoixInscription.g.cs
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceInscriptionClient.g.cs
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceInscriptionFournissseur.g.cs
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceLogin.g.cs
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceValidationInscriptionFournisseur.g.cs
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceChoixInscription.baml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceInscriptionClient.baml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceInscriptionFournissseur.baml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceLogin.baml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceValidationInscriptionFournisseur.baml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\Npgsql.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\Npgsql.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceDashboardAccueil.g.cs
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\interfaceDashboardAccueil.baml
+C:\Users\Inclusiv Academy 20\Documents\Lalah\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\Npgsql.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\Npgsql.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceChoixInscription.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAccueil.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionClient.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionFournissseur.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceLogin.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceValidationInscriptionFournisseur.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceChoixInscription.baml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAccueil.baml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionClient.baml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionFournissseur.baml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceLogin.baml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceValidationInscriptionFournisseur.baml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAdmin.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAdmin.baml
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardFournisseur.g.cs
+C:\Users\Inclusiv 11\Desktop\Projet2\projetFinal\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardFournisseur.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\Npgsql.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\Npgsql.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceChoixInscription.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAccueil.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAdmin.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardFournisseur.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionClient.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionFournissseur.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceLogin.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceValidationInscriptionFournisseur.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceChoixInscription.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAccueil.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAdmin.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardFournisseur.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionClient.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionFournissseur.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceLogin.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\interfaceValidationInscriptionFournisseur.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Inclusiv 11\Desktop\Nouveau dossier (2)\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\Npgsql.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\Npgsql.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceChoixInscription.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAccueil.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAdmin.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardFournisseur.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionClient.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionFournissseur.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceLogin.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceValidationInscriptionFournisseur.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceChoixInscription.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAccueil.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardAdmin.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceDashboardFournisseur.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionClient.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceInscriptionFournissseur.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceLogin.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\interfaceValidationInscriptionFournisseur.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml

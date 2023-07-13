@@ -1,0 +1,48 @@
+﻿<Window x:Class="WpfApp1.interfaceLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="interfaceLogin" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.1,0" EndPoint="0.9,1">
+                <GradientStop Color="#75aa31" Offset="0"/>
+                <GradientStop Color="Green" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Border Height="390" VerticalAlignment="Top" CornerRadius="0 0 0 180" Background="LightGray"
+                >
+            <Image Source="Image/40810.jpg" Margin="53,16,434,30"/>
+        </Border>
+        <!--<Border BorderBrush="Black" BorderThickness="1" Margin="0,0,0,393" Background="#FF75AA31">
+        </Border>-->
+        <Label Content="Connexion utilisateur" Margin="385,53,47,296" FontSize="36" Foreground="#344e41" FontFamily="Candara" />
+        <TextBox x:Name="textEmail" HorizontalAlignment="Left" Margin="388,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="325" Height="40" FontSize="22" GotFocus="textEmail_GotFocus">
+            <TextBox.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="22"/>
+                </Style>
+            </TextBox.Resources>
+        </TextBox>
+        <TextBox x:Name="textMotdepasse" HorizontalAlignment="Left" Margin="388,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="325" Height="40" FontSize="22">
+            <TextBox.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="22"/>
+                </Style>
+            </TextBox.Resources>
+        </TextBox>
+        <Button Content="Se connecter" HorizontalAlignment="Left" Margin="388,260,0,0" VerticalAlignment="Top" Width="325" Height="40" 
+                  FontSize="22" Background="#344e41" Foreground="White" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="22"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Height="450">
+        <Border x:Name="Header" BorderBrush="Black" BorderThickness="1" Margin="0,0,0,376" Background="#FF75AA31">
+            <Button x:Name="bt_inscription" Content="Créer compte" Background="#FF75AA31" RenderTransformOrigin="0.5,0.5" FontWeight="Bold" FontFamily="Century Gothic" FontSize="15" Foreground="White" Margin="483,13,136,13" BorderBrush="#FF75AA31" Click="bt_inscription_Click"/>
+        </Border>
+        <Image x:Name="logo" HorizontalAlignment="Left" Height="75" Margin="10,79,0,0" VerticalAlignment="Top" Width="76" Source="/Image/logo_tsenEnergy.png" RenderTransformOrigin="0.491,0.778"/>
+        <Image x:Name="image_illustration" HorizontalAlignment="Left" Height="172" Margin="61,197,0,0" VerticalAlignment="Top" Width="282" Source="/Image/image_1.PNG"/>
+        <TextBlock x:Name="txtblc_presentation" HorizontalAlignment="Left" Margin="381,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="102" Width="359" Text="Bienvenue sur Tsen'Energy votre plateforme de vente de produits d'énergie renouvelable ! Nous sommes dédiés à fournir des solutions énergétiques durables pour un avenir plus propre et plus respectueux de l'environnement. Découvrez notre large gamme de produits, allant des panneaux solaires aux systèmes de stockage d'énergie, pour vous aider à réduire votre empreinte carbone et à adopter un mode de vie plus écologique. Rejoignez-nous dans notre mission de faire progresser la transition énergétique et d'œuvrer ensemble pour un avenir durable." FontFamily="Century Gothic" FontSize="9"/>
+        <Button x:Name="bt_identifier" Content="S'identifier" Background="#FF75AA31" RenderTransformOrigin="0.601,0.485" FontWeight="Bold" FontFamily="Century Gothic" FontSize="15" Foreground="White" Margin="648,14,29,390" BorderBrush="#FF75AA31" Click="bt_identifier_Click"/>
+        <TextBox x:Name="txtbox_adresse" HorizontalAlignment="Left" Margin="223,397,0,0" TextWrapping="Wrap" Text="Tsen'Enerjy - 20,rue Rainandriamapandry - Antanarivo, MADAGASCAR " VerticalAlignment="Top" Width="548" Height="43" FontFamily="Century Gothic" BorderBrush="White" FontSize="8"/>
+
+    </Grid>
+</Window>
