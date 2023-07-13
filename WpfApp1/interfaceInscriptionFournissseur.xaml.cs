@@ -38,12 +38,12 @@ namespace WpfApp1
             string modp = tb_mdp.Text;
             string role = "fournisseur";
             string telephone = tb_tel.Text;
-            bool isvalide = false;
+            
             using (var conn = new NpgsqlConnection(connectionString))
             {
                 conn.Open();
 
-                string query = "INSERT INTO fournisseur (isfournisseur,nomentreprise, nompropriétaire, adresse, email,nifstat,motdepasse,role) VALUES('" + isvalide + "','" + compagnie + "','" + nom + "','" + adresse + "','" + email + "','" + nifstat + "','" + modp + "','" + role + "')";
+                string query = "INSERT INTO fournisseur (nomentreprise, nompropriétaire, adresse, email,nifstat,motdepasse,role) VALUES('" + compagnie + "','" + nom + "','" + adresse + "','" + email + "','" + nifstat + "','" + modp + "','" + role + "')";
 
                 using (var cmd = new NpgsqlCommand(query, conn))
                 {

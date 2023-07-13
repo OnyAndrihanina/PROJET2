@@ -97,9 +97,14 @@ namespace WpfApp1
                             if (dr.Read())
                             {
                                 isLoggedIn = true;
-                                this.Hide();
-                                interfaceDashboardFournisseur home = new interfaceDashboardFournisseur();
-                                home.ShowDialog();
+                                bool isFournisseur = Convert.ToBoolean(dr["isfournisseur"]);
+                                if (isFournisseur)
+                                {
+                                    this.Hide();
+                                    interfaceDashboardFournisseur home = new interfaceDashboardFournisseur();
+                                    home.ShowDialog();
+                                }
+                                else MessageBox.Show("l'email et le mot de passe ne correspondent à aucun compte", "Erreur");
                             }
 
 

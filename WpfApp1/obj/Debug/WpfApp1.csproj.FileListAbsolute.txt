@@ -343,3 +343,4 @@ C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.M
 C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
 C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
 C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Inclusiv 11\Desktop\dossierProjet2\Tsenergy\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
