@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="interfaceDashboardAccueil" Height="450" Width="800">
     <Grid>
-        <Border BorderBrush="White" BorderThickness="1" Margin="0,2,629,0" Background="Green">
+        <Border BorderBrush="White" BorderThickness="1" Margin="0,2,629,0" Background="#FF344E41">
             <Border.CornerRadius>
                 <CornerRadius TopLeft="10" TopRight="180" BottomLeft="0" BottomRight="10"/>
             </Border.CornerRadius>
@@ -42,7 +42,7 @@
                 <DataGridTextColumn Header="Libellé" Width="125"/>
             </DataGrid.Columns>
         </DataGrid>
-        <Button Content="Achat" HorizontalAlignment="Left" Margin="40,284,0,0" VerticalAlignment="Top" Width="90" Height="30"  Background="#FF26D4C1" Foreground="White" FontWeight="Bold" FontFamily="Century Gothic" Click="Button_Click"/>
+        <Button Content="Achat" HorizontalAlignment="Left" Margin="40,284,0,0" VerticalAlignment="Top" Width="90" Height="30"  Background="White" Foreground="#FF3A5A40" FontWeight="Bold" FontFamily="Century Gothic" Click="Button_Click"/>
 
         <Button Content="Abonnement" HorizontalAlignment="Left" Margin="40,319,0,0" VerticalAlignment="Top" Width="90" Height="35"  Background="#FF26D4C1" Foreground="White" FontWeight="Bold" FontFamily="Century Gothic"/>
         <Button Content="Deconnexion" HorizontalAlignment="Left" Margin="40,359,0,0" VerticalAlignment="Top" Width="90" Height="35" RenderTransformOrigin="0.4,0.573"  Background="#FF26D4C1" Foreground="White" FontWeight="Bold" FontFamily="Century Gothic"/>

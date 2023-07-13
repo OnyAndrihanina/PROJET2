@@ -22,6 +22,24 @@ namespace WpfApp1
         public interfaceDashboardAdmin()
         {
             InitializeComponent();
+            
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Fournisseur.chargerDonneesFournisseurValide();
+            dataGridNotification.ItemsSource = Fournisseur.chargerDonneesFournisseurValide();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Fournisseur.chargerDonneesFournisseurNonValide();
+            dataGridNotification.ItemsSource = Fournisseur.chargerDonneesFournisseurNonValide();
+        }
+
+        private void dataGridNotification_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            
         }
     }
 }
