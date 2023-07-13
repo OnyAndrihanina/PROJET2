@@ -50,7 +50,7 @@
 
             <Style.Triggers>
                 <Trigger Property="IsMouseOver" Value="True">
-                    <Setter Property="Background" Value="#52796f"/>
+                    <Setter Property="Foreground" Value="#52796f"/>
                     <Setter Property="Background" Value="White"/>
 
                 </Trigger>
