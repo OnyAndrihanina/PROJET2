@@ -43,7 +43,7 @@ namespace WpfApp1
             {
                 bool isLoggedIn = false;
                 bool isValid = true;
-                using (NpgsqlConnection connection = new NpgsqlConnection("Host=localhost;Database=projet2;Username=postgres;Password=ronyandrihanina"))
+                using (NpgsqlConnection connection = new NpgsqlConnection("Host=localhost;Database=Energie;Username=postgres;Password=postgres"))
                 {
                     connection.Open();
                     // connexion Admin
