@@ -39,6 +39,14 @@ namespace WpfApp1
             string role = "fournisseur";
             string telephone = tb_tel.Text;
             //bool isvalide = false;
+            // Vérifier si tous les champs sont remplis
+            if (string.IsNullOrEmpty(compagnie) || string.IsNullOrEmpty(nom) || string.IsNullOrEmpty(adresse) || string.IsNullOrEmpty(email) || string.IsNullOrEmpty(nifstat) || string.IsNullOrEmpty(modp) || string.IsNullOrEmpty(telephone))
+            {
+                label_message.Content = "Veuillez remplir tous les champs";
+                label_message.Foreground = Brushes.Red; // Définir la couleur du texte sur rouge
+                return;
+            }
+
             using (var conn = new NpgsqlConnection(connectionString))
             {
                 conn.Open();

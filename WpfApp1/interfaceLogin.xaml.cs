@@ -41,7 +41,7 @@ namespace WpfApp1
             if (!string.IsNullOrEmpty(textMotdepasse.Text) || !string.IsNullOrEmpty(textEmail.Text))
             {
                 bool isLoggedIn = false;
-                bool isValid = true;
+              //  bool isValid = true;
                 using (NpgsqlConnection connection = new NpgsqlConnection("Host=localhost;Database=projet2;Username=postgres;Password=ronyandrihanina"))
                 {
                     connection.Open();
