@@ -12,7 +12,7 @@ namespace WpfApp1
     internal class Fournisseur
     {
         
-
+        public int id_fournisseur { get; set; }
         public string nomentreprise { get; set; }
         public string nomproprietaire { get; set; }
         public string adresse { get; set; }
@@ -36,15 +36,23 @@ namespace WpfApp1
         //    this.isfournisseur = isfournisseur;
         //}
 
-        public Fournisseur(string nomentreprise, string nomproprietaire, string adresse, string email, string nifstat)
+        public Fournisseur(int id_fournisseur, bool isfournisseur, string nomentreprise, string nomproprietaire, string adresse, string email, string nifstat)
         {
+            this.id_fournisseur = id_fournisseur;
             this.nomentreprise = nomentreprise;
             this.nomproprietaire = nomproprietaire;
             this.adresse = adresse;
             this.email = email;
             this.nifstat = nifstat;
+            this.isfournisseur = isfournisseur;
         }
 
+        public Fournisseur() { }
+        private bool getIsfournisseur()
+        {
+            this.isfournisseur = isfournisseur;
+            return this.isfournisseur;
+        }
         public static ObservableCollection<Fournisseur> chargerDonneesFournisseurValide()
         {
 
@@ -62,7 +70,7 @@ namespace WpfApp1
                 connection.Open();
 
                 // Préparer la requête SQL pour récupérer les données
-                string query = "SELECT nomentreprise, nompropriétaire, adresse, email, nifstat FROM public.fournisseur where isfournisseur=true;";
+                string query = "SELECT id_fournisseur, isfournisseur, nomentreprise, nompropriétaire, adresse, email, nifstat FROM public.fournisseur where isfournisseur=true;";
                 command = new NpgsqlCommand(query, connection);
 
                 reader = command.ExecuteReader();
@@ -73,13 +81,14 @@ namespace WpfApp1
                 while (reader.Read())
                 {
                     // Lire les valeurs des colonnes "Nom", "Prenom" et "Adresse"
-                    string nomentreprise = reader.GetString(0);
-                    string nomproprietaire = reader.GetString(1);
-                    string adresse = reader.GetString(2);
-                    string mail = reader.GetString(3);
-                    string nifstat = reader.GetString(4);
-
-                    Fournisseur frs = new Fournisseur(nomentreprise, nomproprietaire, adresse, mail, nifstat);
+                    int id_fournisseur = reader.GetInt16(0);
+                    bool isfournisseur = reader.GetBoolean(1);
+                    string nomentreprise = reader.GetString(2);
+                    string nomproprietaire = reader.GetString(3);
+                    string adresse = reader.GetString(4);
+                    string mail = reader.GetString(5);
+                    string nifstat = reader.GetString(6);
+                    Fournisseur frs = new Fournisseur(id_fournisseur,isfournisseur, nomentreprise, nomproprietaire, adresse, mail, nifstat);
 
 
                     listeFournisseur.Add(frs);
@@ -111,7 +120,7 @@ namespace WpfApp1
                 connection.Open();
                 
                 // Préparer la requête SQL pour récupérer les données
-                string query = "SELECT nomentreprise, nompropriétaire, adresse, email, nifstat FROM fournisseur where isfournisseur=false;";
+                string query = "SELECT id_fournisseur,isfournisseur,nomentreprise, nompropriétaire, adresse, email, nifstat FROM fournisseur where isfournisseur=false;";
                 command = new NpgsqlCommand(query, connection);
 
                 reader = command.ExecuteReader();
@@ -122,13 +131,15 @@ namespace WpfApp1
                 while (reader.Read())
                 {
                     // Lire les valeurs des colonnes "Nom", "Prenom" et "Adresse"
-                    string nomentreprise = reader.GetString(0);
-                    string nomproprietaire = reader.GetString(1);
-                    string adresse = reader.GetString(2);
-                    string mail = reader.GetString(3);
-                    string nifstat = reader.GetString(4);
+                    int id_fournisseur = reader.GetInt16(0);
+                    bool isfournisseur = reader.GetBoolean(1);
+                    string nomentreprise = reader.GetString(2);
+                    string nomproprietaire = reader.GetString(3);
+                    string adresse = reader.GetString(4);
+                    string mail = reader.GetString(5);
+                    string nifstat = reader.GetString(6);
 
-                    Fournisseur frs = new Fournisseur(nomentreprise, nomproprietaire, adresse, mail, nifstat);
+                    Fournisseur frs = new Fournisseur(id_fournisseur, isfournisseur, nomentreprise, nomproprietaire, adresse, mail, nifstat);
 
 
                     listeFournisseur.Add(frs);

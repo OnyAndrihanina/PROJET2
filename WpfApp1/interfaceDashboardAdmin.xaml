@@ -73,14 +73,14 @@
                             </StackPanel>
                         </Button>
 
-                        <Button Style="{StaticResource menuButton}">
+                        <Button Style="{StaticResource menuButton}" Click="Button_Click_2">
                             <StackPanel Orientation="Horizontal">
                                 <Icon:PackIconMaterial Kind="Tag" Style="{StaticResource menuButtonIcon}"/>
                                 <TextBlock Text="Produits" FontSize="30"/>
                             </StackPanel>
                         </Button>
-                        
-                        
+
+
                         <Button Style="{StaticResource menuButton}">
                             <StackPanel Orientation="Horizontal">
                                 <Icon:PackIconMaterial Kind="HumanFemale" Style="{StaticResource menuButtonIcon}"/>
@@ -129,9 +129,10 @@
                        HorizontalAlignment="Left" Foreground="#121518" Width="601"/>
 
 
-            <DataGrid RowStyle="{DynamicResource DataGridRowStyle1}" Grid.Row="4" Grid.RowSpan="2" x:Name="dataGridNotification" Margin="34,0,0,0" SelectionChanged="dataGridNotification_SelectionChanged">
+            <DataGrid RowStyle="{DynamicResource DataGridRowStyle1}" AutoGenerateColumns="False" Grid.Row="4" Grid.RowSpan="2" x:Name="dataGridNotification" Margin="34,0,0,133" SelectionChanged="dataGridNotification_SelectionChanged">
                 <DataGrid.Columns>
-                    <!--<DataGridTextColumn Header="#" IsReadOnly="True" CanUserResize="False" Width="Auto" Binding="{Binding Path=nomentreprise}"/>-->
+                    <DataGridTextColumn Header="#" IsReadOnly="True" CanUserResize="False" Width="Auto" Binding="{Binding id_fournisseur}"/>
+                    <DataGridTextColumn Header="isfournisseur" IsReadOnly="True" Width="*" Binding="{Binding isfournisseur}"/>
                     <DataGridTextColumn Header="Nom Entreprise" IsReadOnly="True" Width="*" Binding="{Binding nomentreprise}"/>
                     <DataGridTextColumn Header="Nom Propriétaire" IsReadOnly="True" Width="*" FontSize="24" Binding="{Binding nomproprietaire}"/>
                     <DataGridTextColumn Header="Adresse" IsReadOnly="True" Width="*" FontSize="24" Binding="{Binding adresse}"/>
@@ -140,6 +141,7 @@
 
                 </DataGrid.Columns>
             </DataGrid>
+            <TextBox x:Name="textboxIsF" HorizontalAlignment="Left" Margin="227,493,0,0" Grid.Row="5" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" Height="44"/>
 
         </Grid>
 

@@ -21,8 +21,8 @@
         </Border>
         <!--<Border BorderBrush="Black" BorderThickness="1" Margin="0,0,0,393" Background="#FF75AA31">
         </Border>-->
-        <Label Content="Connexion utilisateur" Margin="385,53,47,296" FontSize="36" Foreground="#344e41" FontFamily="Candara" />
-        <TextBox x:Name="textEmail" HorizontalAlignment="Left" Margin="388,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="325" Height="40" FontSize="22" GotFocus="textEmail_GotFocus">
+        <Label Content="Connexion utilisateur" Margin="385,6,47,343" FontSize="36" Foreground="#344e41" FontFamily="Candara" />
+        <TextBox x:Name="textEmail" HorizontalAlignment="Left" Margin="388,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="325" Height="40" FontSize="22" >
             <TextBox.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="22"/>

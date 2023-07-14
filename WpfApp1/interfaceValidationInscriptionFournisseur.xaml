@@ -5,9 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        WindowStartupLocation="CenterScreen"
-        Title="interfaceValidationInscriptionFournisseur" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="interfaceDemandeValidation" Height="400" Width="400"
+        Background="Transparent"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+
+    <Border Background="White" Height="375" Width="400" CornerRadius="20" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid>
+            <Border x:Name="titre" CornerRadius="10" Background="#344e41" HorizontalAlignment="Center" Height="63" Width="400" Margin="0,0,0,312">
+                <TextBlock Width="{Binding ActualWidth, ElementName=titre}" Height="{Binding ActualHeight, ElementName=titre}" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Confirmation inscription d'un fournisseur" FontSize="24" FontFamily="microsoft tai le" Foreground="White" TextAlignment="Center" />
+            </Border>
+
+            <StackPanel Margin="90,108,90,132">
+                <TextBlock x:Name="textBoxNomCompagnie" HorizontalAlignment="Left" Text="TextBlock" Margin="2 2"/>
+                <TextBlock x:Name="textBoxNomProprio" HorizontalAlignment="Left" Text="TextBlock" Margin="2 2"/>
+                <TextBlock x:Name="textBoxAdresse" HorizontalAlignment="Left" Text="TextBlock" Margin="2 2"/>
+                <TextBlock x:Name="textBoxEmail" HorizontalAlignment="Left" Text="TextBlock" Margin="2 2"/>
+                <TextBlock x:Name="textBoxNifStat" HorizontalAlignment="Left" Text="TextBlock" Margin="2 2"/>
+
+            </StackPanel>
+
+            <Button x:Name="btValider" Content="Valider" HorizontalAlignment="Left" Margin="222,338,0,0" VerticalAlignment="Top" Click="btValider_Click"/>
+            <Button x:Name="btRejeter" Content="Rejeter" HorizontalAlignment="Left" Margin="292,338,0,0" VerticalAlignment="Top" Click="btRejeter_Click"/>
+            <TextBlock x:Name="textBoxMessageConfirmation" HorizontalAlignment="Left" Margin="40,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="45" Width="247"><Run Language="fr-fr" Text="souhaite intergrer votre plateforme, "/><LineBreak/><Run Language="fr-fr"/><LineBreak/><Run Language="fr-fr" Text="Confirmer son inscription?"/></TextBlock>
+
+        </Grid>
+
+    </Border>
+
+
 </Window>

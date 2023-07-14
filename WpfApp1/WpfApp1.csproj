@@ -274,6 +274,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Produit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

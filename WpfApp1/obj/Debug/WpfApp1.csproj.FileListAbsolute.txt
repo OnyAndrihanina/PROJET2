@@ -638,7 +638,6 @@ C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\bin\Debug\Sys
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\bin\Debug\System.Threading.Channels.xml
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\bin\Debug\System.ValueTuple.xml
-C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\interfaceChoixInscription.g.cs
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\interfaceDashboardAccueil.g.cs
@@ -669,3 +668,4 @@ C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\Wpf
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Inclusiv 11\Documents\Projet2_par_exemple\PROJET2\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache

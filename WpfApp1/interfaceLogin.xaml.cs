@@ -24,13 +24,10 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
-        private void textEmail_GotFocus(object sender, RoutedEventArgs e)
+
+        private void textchange()
         {
-            TextBox textBox = (TextBox)sender;
-            if (textBox.Text == "Entrez votre texte")
-            {
-                textBox.Text = String.Empty;
-            }
+
         }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -41,7 +38,7 @@ namespace WpfApp1
             if (!string.IsNullOrEmpty(textMotdepasse.Text) || !string.IsNullOrEmpty(textEmail.Text))
             {
                 bool isLoggedIn = false;
-                bool isValid = true;
+                //bool isValid = true;
                 using (NpgsqlConnection connection = new NpgsqlConnection("Host=localhost;Database=projet2;Username=postgres;Password=ronyandrihanina"))
                 {
                     connection.Open();
@@ -77,7 +74,7 @@ namespace WpfApp1
                             if (dr.Read())
                             {
                                 isLoggedIn = true;
-                                this.Hide();
+                                this.Hide(); 
                                 interfaceDashboardAccueil home = new interfaceDashboardAccueil();
                                 home.ShowDialog();
                             }
@@ -95,10 +92,17 @@ namespace WpfApp1
                         {
                             if (dr.Read())
                             {
-                                isLoggedIn = true;
-                                this.Hide();
-                                interfaceDashboardFournisseur home = new interfaceDashboardFournisseur();
-                                home.ShowDialog();
+                                bool isfournisseur = (bool)dr["isfournisseur"];
+                                if (isfournisseur)
+                                {
+
+
+                                    isLoggedIn = true;
+                                    this.Hide();
+                                    interfaceDashboardFournisseur home = new interfaceDashboardFournisseur();
+                                    home.ShowDialog();
+                                }
+                                
                             }
 
 
