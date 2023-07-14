@@ -7,7 +7,54 @@
         mc:Ignorable="d"
         Title="interfaceDashboardAccueil" Height="450" Width="800">
     <Grid>
-        <Label Content="interface Acueil" HorizontalAlignment="Left" Margin="270,144,0,0" VerticalAlignment="Top" Width="265" Height="55" FontSize="36"/>
+        <Border BorderBrush="White" BorderThickness="1" Margin="0,2,629,0" Background="#FF344E41">
+            <Border.CornerRadius>
+                <CornerRadius TopLeft="10" TopRight="180" BottomLeft="0" BottomRight="10"/>
+            </Border.CornerRadius>
+
+        </Border>
+        <Image Margin="17,32,731,350" Source="/image.png" Stretch="Fill"/>
+
+        <TextBox x:Name="textbox_recherche" HorizontalAlignment="Left" Margin="475,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" Height="30">
+            <TextBox.Resources>
+                <Style TargetType="{x:Type TextBox}">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type TextBox}">
+                                <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="10">
+                                    <ScrollViewer x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TextBox.Resources>
+        </TextBox>
+        <Image Margin="740,32,25,378" Source="/recherche.png" Stretch="Fill"/>
+        <DataGrid x:Name="DataGrid_achat" Margin="176,94,10,29" SelectionChanged="DataGrid_achat_SelectionChanged"  >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="" Width="100"/>
+                <DataGridTextColumn Header="Nom" Width="80"/>
+                <DataGridTextColumn Header="Modele" Width="70"/>
+                <DataGridTextColumn Header="Prix d'achat" Width="70"/>
+                <DataGridTextColumn Header="Prix d'abonnement" Width="120"/>
+                <DataGridTextColumn Header="Stock" Width="50"/>
+                <DataGridTextColumn Header="Libellé" Width="125"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Achat" HorizontalAlignment="Left" Margin="40,284,0,0" VerticalAlignment="Top" Width="90" Height="30"  Background="White" Foreground="#FF3A5A40" FontWeight="Bold" FontFamily="Century Gothic" Click="Button_Click"/>
+
+        <Button Content="Abonnement" HorizontalAlignment="Left" Margin="40,319,0,0" VerticalAlignment="Top" Width="90" Height="35"  Background="#FF26D4C1" Foreground="White" FontWeight="Bold" FontFamily="Century Gothic"/>
+        <Button Content="Deconnexion" HorizontalAlignment="Left" Margin="40,359,0,0" VerticalAlignment="Top" Width="90" Height="35" RenderTransformOrigin="0.4,0.573"  Background="#FF26D4C1" Foreground="White" FontWeight="Bold" FontFamily="Century Gothic"/>
+        <Image x:Name="logo" HorizontalAlignment="Left" Height="52" Margin="150,13,0,0" VerticalAlignment="Top" Width="55" Source="/Image/logo_tsenEnergy.png" RenderTransformOrigin="0.491,0.778"/>
+        <Label Content="Espace client" HorizontalAlignment="Left" VerticalAlignment="Top" Width="215" Height="54" FontSize="36" Margin="225,11,0,0"/>
+        <Label x:Name="labelClient_nom" Content="Nom" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="120" Height="24" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelClient_prenom" Content="Prenom" HorizontalAlignment="Left" Margin="10,119,0,0" VerticalAlignment="Top" Width="129" Height="25" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelClient_adresse" Content="Adresse&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,149,0,0" VerticalAlignment="Top" Height="25" Width="140" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelClient_date" Content="Date de naissance&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,179,0,0" VerticalAlignment="Top" Height="25" Width="149" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelClient_tel" Content="Telephone" HorizontalAlignment="Left" Margin="10,209,0,0" VerticalAlignment="Top" Width="149" Height="25" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelClient_mail" Content="Mail" HorizontalAlignment="Left" Margin="10,239,0,0" VerticalAlignment="Top" Width="149" Height="25" FontWeight="Bold" Foreground="White"/>
+        <Label Content="Id" HorizontalAlignment="Left" Margin="74,59,0,0" VerticalAlignment="Top" Width="46" Background="White" Height="23"/>
 
     </Grid>
 </Window>

@@ -1,13 +1,148 @@
 ﻿<Window x:Class="WpfApp1.interfaceDashboardAdmin"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="interfaceDashboardAdmin" Height="450" Width="800">
-    <Grid>
-        <Label Content="interface admin" HorizontalAlignment="Left" Margin="165,114,0,0" VerticalAlignment="Top" Width="414" Height="77" FontSize="36"/>
+        Title="interfaceDashboardAdmin" Height="800" Width="1165"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis"/>
+    </Window.Resources>
+
+    <Grid Margin="0,0,37,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200" />
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!--Menu icon-->
+            <Button Margin="20,28,0,35" Style="{StaticResource topButton}">
+                <Icon:PackIconMaterial Kind="Menu" Width="15" Height="15"/>
+            </Button>
+
+            <Border Grid.Row="1" Background="#588157" CornerRadius="0,50,0,30" Margin="0,0,-62,0">
+                <DockPanel>
+                    <!--Menu Logo-->
+                    <Border Width="100" Height="100" Padding="3" Background="White" CornerRadius="100" DockPanel.Dock="Top"
+                            HorizontalAlignment="Left" Margin="20 -45 0 0">
+                        <Ellipse>
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="/Image/logo_tsenEnergy.png"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                    </Border>
+
+                    <TextBlock x:Name="textBlocAdminName" Text="NOM" Foreground="White" FontSize="30" FontWeight="SemiBold" DockPanel.Dock="Top"
+                               TextAlignment="Center" Margin="5 25 0 10"/>
+                    <TextBlock x:Name="textBlocAdminRole" Text="Administrateur" Foreground="#d8f3dc" FontSize="25" FontWeight="SemiBold" DockPanel.Dock="Top"
+                               TextAlignment="Center"/>
+
+                    <Separator Margin="25" DockPanel.Dock="Top" Height="0.8" Background="#95d5b2"/>
+
+                    <!--bouton-->
+                    <StackPanel DockPanel.Dock="Top" >
+
+                        <Button Style="{StaticResource menuButton}">
+                            <StackPanel Orientation="Horizontal">
+                                <Icon:PackIconMaterial Kind="HomeVariant" Style="{StaticResource menuButtonIcon}"/>
+                                <TextBlock Text="Accueil" FontSize="30"/>
+                            </StackPanel>
+                        </Button>
+
+                        <Button Style="{StaticResource menuButton}" Click="Button_Click_1">
+                            <StackPanel Orientation="Horizontal">
+                                <Icon:PackIconMaterial Kind="PlusBoxMultipleOutline" Style="{StaticResource menuButtonIcon}"/>
+                                <TextBlock FontSize="25"><Run Text="Demande "/><LineBreak/><Run Text="de fournisseurs"/></TextBlock>
+                            </StackPanel>
+                        </Button>
+
+                        <Button Style="{StaticResource menuButton}" Click="Button_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <Icon:PackIconMaterial Kind="GoogleMyBusiness" Style="{StaticResource menuButtonIcon}"/>
+                                <TextBlock Text="Fournisseurs" FontSize="30"/>
+                            </StackPanel>
+                        </Button>
+
+                        <Button Style="{StaticResource menuButton}">
+                            <StackPanel Orientation="Horizontal">
+                                <Icon:PackIconMaterial Kind="Tag" Style="{StaticResource menuButtonIcon}"/>
+                                <TextBlock Text="Produits" FontSize="30"/>
+                            </StackPanel>
+                        </Button>
+                        
+                        
+                        <Button Style="{StaticResource menuButton}">
+                            <StackPanel Orientation="Horizontal">
+                                <Icon:PackIconMaterial Kind="HumanFemale" Style="{StaticResource menuButtonIcon}"/>
+                                <TextBlock Text="Clients" FontSize="25"/>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+
+                    <Button Style="{StaticResource menuButton}" VerticalAlignment="Bottom" DockPanel.Dock="Bottom" Margin="15 0 15 20">
+                        <StackPanel Orientation="Horizontal">
+                            <Icon:PackIconMaterial Kind="Logout" Style="{StaticResource menuButtonIcon}"/>
+                            <TextBlock Text="Logout" FontSize="24"/>
+                        </StackPanel>
+                    </Button>
+
+                </DockPanel>
+
+            </Border>
+
+        </Grid>
+
+        <Grid Grid.Column="1" Margin="62,20,20,20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" MinHeight="83"/>
+                <RowDefinition Height="auto" MinHeight="24.566"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto" MinHeight="0"/>
+                <RowDefinition Height="auto" MinHeight="62.563"/>
+                <RowDefinition/>
+                <RowDefinition Height="0*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <!--Barre de recherche-->
+            <Grid Width="846" HorizontalAlignment="Center" Margin="0,22,0,10">
+                <TextBlock FontSize="20" Margin="20,0,-380,0" VerticalAlignment="Center" Foreground="#b0b9c6" IsHitTestVisible="False"
+                           Panel.ZIndex="1" Text="Rechercher..." Visibility="{Binding ElementName=textBoxSearch,Converter={StaticResource BoolToVis}}"/>
+
+                <TextBox x:Name="textBoxSearch" Style="{StaticResource textBoxSearch}" Margin="0,0,10,0" Height="40" RenderTransformOrigin="0.593,0.643"/>
+                <Icon:PackIconMaterial Kind="Magnify" Width="42" Height="23" VerticalAlignment="Center" Margin="778,0,0,0" 
+                                       Foreground="#b0b9c6" RenderTransformOrigin="0.486,0.454" />
+            </Grid>
+
+            <!--Titre-->
+            <TextBlock x:Name="textBlockTitre" Text="Demande d'inscription des fournisseurs" Grid.Row="4" FontSize="32" FontWeight="SemiBold" Margin="50,1,0,19"
+                       HorizontalAlignment="Left" Foreground="#121518" Width="601"/>
+
+
+            <DataGrid RowStyle="{DynamicResource DataGridRowStyle1}" Grid.Row="4" Grid.RowSpan="2" x:Name="dataGridNotification" Margin="34,0,0,0" SelectionChanged="dataGridNotification_SelectionChanged">
+                <DataGrid.Columns>
+                    <!--<DataGridTextColumn Header="#" IsReadOnly="True" CanUserResize="False" Width="Auto" Binding="{Binding Path=nomentreprise}"/>-->
+                    <DataGridTextColumn Header="Nom Entreprise" IsReadOnly="True" Width="*" Binding="{Binding nomentreprise}"/>
+                    <DataGridTextColumn Header="Nom Propriétaire" IsReadOnly="True" Width="*" FontSize="24" Binding="{Binding nomproprietaire}"/>
+                    <DataGridTextColumn Header="Adresse" IsReadOnly="True" Width="*" FontSize="24" Binding="{Binding adresse}"/>
+                    <DataGridTextColumn Header="Email" IsReadOnly="True" Width="*" FontSize="24" Binding="{Binding email}"/>
+                    <DataGridTextColumn Header="NIF/STAT" IsReadOnly="True" Width="*" FontSize="24" Binding="{Binding nifstat}"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </Grid>
 
     </Grid>
+
 </Window>
