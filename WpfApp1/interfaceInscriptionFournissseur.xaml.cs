@@ -20,7 +20,7 @@ namespace WpfApp1
     /// </summary>
     public partial class interfaceInscriptionFournissseur : Window
     {
-        string connectionString = "Host=localhost;Port=5432;Database=projet2;User Id=postgres;Password=ronyandrihanina;";
+        string connectionString = "Host=localhost;Port=5432;Database=projet2;User Id=postgres;Password=mdppostgres;";
 
 
         public interfaceInscriptionFournissseur()
@@ -38,18 +38,28 @@ namespace WpfApp1
             string modp = tb_mdp.Text;
             string role = "fournisseur";
             string telephone = tb_tel.Text;
-            bool isvalide = false;
+            //bool isvalide = false;
+            // Vérifier si tous les champs sont remplis
+            if (string.IsNullOrEmpty(compagnie) || string.IsNullOrEmpty(nom) || string.IsNullOrEmpty(adresse) || string.IsNullOrEmpty(email) || string.IsNullOrEmpty(nifstat) || string.IsNullOrEmpty(modp) || string.IsNullOrEmpty(telephone))
+            {
+                label_message.Content = "Veuillez remplir tous les champs";
+                label_message.Foreground = Brushes.Red; // Définir la couleur du texte sur rouge
+                return;
+            }
+
             using (var conn = new NpgsqlConnection(connectionString))
             {
                 conn.Open();
 
-                string query = "INSERT INTO fournisseur (isfournisseur,nomentreprise, nompropriétaire, adresse, email,nifstat,motdepasse,role) VALUES('" + isvalide + "','" + compagnie + "','" + nom + "','" + adresse + "','" + email + "','" + nifstat + "','" + modp + "','" + role + "')";
+                string query = "INSERT INTO fournisseur (nomentreprise, nomproprietaire, adresse, email,nifstat,motdepasse,role) VALUES('" + compagnie + "','" + nom + "','" + adresse + "','" + email + "','" + nifstat + "','" + modp + "','" + role + "')";
 
                 using (var cmd = new NpgsqlCommand(query, conn))
                 {
 
 
                     cmd.ExecuteNonQuery();
+                    raz();
+                    label_message.Content = "Succès";
 
                 }
                 conn.Close();
@@ -58,7 +68,7 @@ namespace WpfApp1
 
         private void bt_annuler_Click(object sender, RoutedEventArgs e)
         {
-
+            raz();
         }
 
         private void bt_retour_Click(object sender, RoutedEventArgs e)
@@ -72,6 +82,16 @@ namespace WpfApp1
         private void bt_logo_Click(object sender, RoutedEventArgs e)
         {
 
+        }
+        private void raz()
+        {
+            tb_comp.Text = "";
+            tb_propri.Text = "";
+            tb_adresse.Text = "";
+            tb_mail.Text = "";
+            tb_stat.Text = "";
+            tb_mdp.Text = "";
+            tb_tel.Text = "";
         }
     }
 }

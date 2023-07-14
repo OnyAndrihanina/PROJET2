@@ -20,7 +20,7 @@ namespace WpfApp1
     /// </summary>
     public partial class interfaceInscriptionClient : Window
     {
-        string connectionString = "Host=localhost;Port=5432;Database=projet2;User Id=postgres;Password=ronyandrihanina;";
+        string connectionString = "Host=localhost;Port=5432;Database=projet2;User Id=postgres;Password=mdppostgres;";
 
         public interfaceInscriptionClient()
         {
