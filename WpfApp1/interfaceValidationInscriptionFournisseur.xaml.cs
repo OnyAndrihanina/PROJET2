@@ -20,8 +20,9 @@ namespace WpfApp1
     /// </summary>
     public partial class interfaceValidationInscriptionFournisseur : Window
     {
+        private Fournisseur testtest;
         interfaceDashboardAdmin admin = new interfaceDashboardAdmin();
-        Fournisseur personne = new Fournisseur();
+        
         
 
         public interfaceValidationInscriptionFournisseur()
